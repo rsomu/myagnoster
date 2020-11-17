@@ -29,7 +29,8 @@
 CURRENT_BG='NONE'
 PRIMARY_FG=white
 SECONDARY_FG=black
-export LSCOLORS=FxGxCxDxBxegedabagaced
+export LSCOLORS=CxGxExDxBxexgxabagacFx
+#export LSCOLORS=FxGxCxDxBxegedabagaced
 
 # Characters
 SEGMENT_SEPARATOR="\ue0b0"
